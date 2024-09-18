@@ -5,17 +5,19 @@
 
 ### Welcome to the World of Sock Coin: The Stylish Meme Coin Serving Its Community! 🎉
 
-Sock Coin is a collective adventure where everyone gets a lot of Socks. Imagine this: 80% of the total supply is distributed to the community! Here's how it works:
+Sock Coin is a collective adventure where everyone gets a lot of Socks. Imagine this: 70% of the total supply is distributed to the community! Here's how it works:
 
 #### Token Distribution
 
-- **50% at Free Price**: For 5 days, you can send any amount of BNB to this wallet, and based on your contribution, a percentage of Sock Coin will be allocated to you. The more you give, the more you receive, and the less likely you'll have cold feet!
+- **50% at Free Price**: For a few days after the announcement of the pre-sale or you can send any amount of BNB to this wallet ( for early VC). Distribution is ased on your contribution, a percentage of Sock Coin will be allocated to you. The more you give, the more you receive, and the less likely you'll have cold feet!
 
-- **30% in AirDrop**: Who doesn't have holey Socks or cold feet? 30% of the total supply will be airdropped to the community. The percentage you receive will depend on your initial participation. Simple and effective! Be generous, and we will be too!
+- **20% in AirDrop**: Who doesn't have holey Socks or cold feet? 30% of the total supply will be airdropped to the community. The percentage you receive will depend on your initial participation. Simple and effective! Be generous, and we will be too!
 
 - **10% Reserved for Liquidity Pools**: Once the 50% supply and the AirDrop have been distributed, liquidity pools will be created to ensure stability and smooth transactions. You will be able to trade your Sock Coins with ease.
 
 - **5% for the Team**: Because a good team deserves its reward, 5% of the supply is reserved for those working hard to make Sock Coin a success.
+
+- **5% for the Market Maker**: 5% of the supply is reserved for Market maker stability is a success.
 
 - **5% for CEX**: Finally, 5% of the supply is reserved for centralized exchanges (CEX), ensuring maximum visibility and optimal accessibility.
 
@@ -30,7 +32,7 @@ Don't miss this unique opportunity to be part of a dynamic and fun community. Jo
 ## How to Participate
 
 1. Follow our [Telegram account](https://t.me/sockmemecoin) for the latest updates.
-2. Prepare your BNB for the free-price distribution phase.
+2. Prepare your BNB for the free-price distribution phase and send @ this wallet :Sockoin.bnb
 3. Stay tuned for the AirDrop announcement.
 4. Share the information with your friends and join the Sock Coin community!
 
