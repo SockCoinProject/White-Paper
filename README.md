@@ -45,7 +45,7 @@ Don't miss this unique opportunity to be part of a dynamic and fun community. Jo
 
 - [Official Website](https://sockcoin.io)
 - [Telegram](https://t.me/sockmemecoin)
-- [Twitter](https://x.com/sockmemecoin)
+- [Twitter](https://x.com/sockcoin)
 
 ## Disclaimer
 
