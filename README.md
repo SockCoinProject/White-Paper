@@ -7,22 +7,22 @@
 
 Sock Coin is a collective adventure where everyone gets a lot of Socks. Imagine this: 70% of the total supply is distributed to the community! Here's how it works:
 
-#### Token Distribution
+#### Token Distribution supply:
 
 - **50% at Free Price**: For a few days after the announcement of the pre-sale or you can send any amount of BNB to this wallet ( for early VC). Distribution is ased on your contribution, a percentage of Sock Coin will be allocated to you. The more you give, the more you receive, and the less likely you'll have cold feet!
 
-- **20% in AirDrop**: Who doesn't have holey Socks or cold feet? 30% of the total supply will be airdropped to the community. The percentage you receive will depend on your initial participation. Simple and effective! Be generous, and we will be too!
+- **20% in AirDrop & Rewards**: Who doesn't have holey Socks or cold feet? 20% of the total supply will be airdropped to the community. The percentage you receive will depend on your initial participation. Simple and effective! Be generous, and we will be too!
 
-- **10% Reserved for Liquidity Pools**: Once the 50% supply and the AirDrop have been distributed, liquidity pools will be created to ensure stability and smooth transactions. You will be able to trade your Sock Coins with ease.
+- **10% Reserved for Liquidity Pools**: Once the 50% supply and the AirDrop have been distributed, liquidity pools will be created to ensure stability and smooth transactions. You will be able to trade your SockCoins with ease.
 
 - **5% for the Team**: Because a good team deserves its reward, 5% of the supply is reserved for those working hard to make Sock Coin a success.
 
 - **5% for the Market Maker**: 5% of the supply is reserved for Market maker stability is a success.
 
 - **5% for CEX: Finally**: 5% of the supply is reserved for centralized exchanges (CEX), ensuring maximum visibility and optimal accessibility.
-- 
+ 
 - **5% for Marketing**: To make sure SockCoin reaches every corner of the crypto world, 5% of the supply is reserved for marketing plan. From promotions to     partnerships, this allocation ensures that everyone knows about SockCoin's potential. Spread the word and join the movement!
-5% for Marketing: 
+
 
 ### Join the Adventure! 🚀🧦
 
@@ -35,14 +35,14 @@ Don't miss this unique opportunity to be part of a dynamic and fun community. Jo
 ## How to Participate
 
 1. Follow our [Telegram account](https://t.me/sockmemecoin) for the latest updates.
-2. Prepare your BNB for the free-price distribution phase and send @ this wallet :Sockoin.bnb
+2. Prepare your BNB for the free-price distribution phase and send @ this wallet :[Sockoin.bnb] binance smart chain
 3. Stay tuned for the Pre Market & AirDrop announcement.
 4. Share the information with your friends on a social netwoks and join the Sock Coin community!
 
 ## Important Information
 
-- **Contract Address**: `0x3E097678aB790AACd8b42721099b3983f40aA827`
-- **Email**: support@sockcoin.io
+- **Contract Address**: [0x3E097678aB790AACd8b42721099b3983f40aA827]
+- **Email**: [support@sockcoin.io] or [contact@sockcoin.io]
 
 ## Useful Links
 
@@ -50,7 +50,6 @@ Don't miss this unique opportunity to be part of a dynamic and fun community. Jo
 - [Telegram](https://t.me/sockmemecoin)
 - [Twitter](https://x.com/sockcoin)
 - [Linktree](https://linktr.ee/sockcoin)
-- 
 
 ## Disclaimer
 
