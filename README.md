@@ -50,6 +50,8 @@ Don't miss this unique opportunity to be part of a dynamic and fun community. Jo
 - [Telegram](https://t.me/sockmemecoin)
 - [Twitter](https://x.com/sockcoin)
 - [Linktree](https://linktr.ee/sockcoin)
+- [Instagram](https://www.instagram.com/sockcoinarmy)
+- [Medium](https://medium.com/@sockcoinoff)  
 
 ## Disclaimer
 
