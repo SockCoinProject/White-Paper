@@ -19,7 +19,10 @@ Sock Coin is a collective adventure where everyone gets a lot of Socks. Imagine 
 
 - **5% for the Market Maker**: 5% of the supply is reserved for Market maker stability is a success.
 
-- **5% for CEX**: Finally, 5% of the supply is reserved for centralized exchanges (CEX), ensuring maximum visibility and optimal accessibility.
+- **5% for CEX: Finally**: 5% of the supply is reserved for centralized exchanges (CEX), ensuring maximum visibility and optimal accessibility.
+- 
+- **5% for Marketing**: To make sure SockCoin reaches every corner of the crypto world, 5% of the supply is reserved for marketing plan. From promotions to     partnerships, this allocation ensures that everyone knows about SockCoin's potential. Spread the word and join the movement!
+5% for Marketing: 
 
 ### Join the Adventure! 🚀🧦
 
@@ -33,8 +36,8 @@ Don't miss this unique opportunity to be part of a dynamic and fun community. Jo
 
 1. Follow our [Telegram account](https://t.me/sockmemecoin) for the latest updates.
 2. Prepare your BNB for the free-price distribution phase and send @ this wallet :Sockoin.bnb
-3. Stay tuned for the AirDrop announcement.
-4. Share the information with your friends and join the Sock Coin community!
+3. Stay tuned for the Pre Market & AirDrop announcement.
+4. Share the information with your friends on a social netwoks and join the Sock Coin community!
 
 ## Important Information
 
@@ -46,6 +49,8 @@ Don't miss this unique opportunity to be part of a dynamic and fun community. Jo
 - [Official Website](https://sockcoin.io)
 - [Telegram](https://t.me/sockmemecoin)
 - [Twitter](https://x.com/sockcoin)
+- [Linktree](https://linktr.ee/sockcoin)
+- 
 
 ## Disclaimer
 
