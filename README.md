@@ -43,6 +43,11 @@ Don't miss this unique opportunity to be part of a dynamic and fun community. Jo
 
 - **Contract Address**: [0x3E097678aB790AACd8b42721099b3983f40aA827]
 - **Email**: [support@sockcoin.io] or [contact@sockcoin.io]
+- **Audit & KYC Score = 88.28**: [https://app.solidproof.io/projects/sock-coin?audit_id=1034] by **By #SolidProoF & #Trusnet**
+- ![Capture d'écran 2024-11-24 003403](https://github.com/user-attachments/assets/7f57c538-b2a2-45c2-9e8b-18c4ee4504c6)
+
+
+
 
 ## Useful Links
 
