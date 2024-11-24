@@ -1,63 +1,29 @@
-# White Paper - Sock Coin
-
-![SockCoin (1)](https://github.com/user-attachments/assets/53d9a77c-3767-4c6a-8fdc-2a0f1cdb2570)
-
-
-### Welcome to the World of Sock Coin: The Stylish Meme Coin Serving Its Community! 🎉
-
-Sock Coin is a collective adventure where everyone gets a lot of Socks. Imagine this: 70% of the total supply is distributed to the community! Here's how it works:
-
-#### Token Distribution supply:
-
-- **50% at Free Price**: For a few days after the announcement of the pre-sale or you can send any amount of BNB to this wallet ( for early VC). Distribution is ased on your contribution, a percentage of Sock Coin will be allocated to you. The more you give, the more you receive, and the less likely you'll have cold feet!
-
-- **20% in AirDrop & Rewards**: Who doesn't have holey Socks or cold feet? 20% of the total supply will be airdropped to the community. The percentage you receive will depend on your initial participation. Simple and effective! Be generous, and we will be too!
-
-- **10% Reserved for Liquidity Pools**: Once the 50% supply and the AirDrop have been distributed, liquidity pools will be created to ensure stability and smooth transactions. You will be able to trade your SockCoins with ease.
-
-- **5% for the Team**: Because a good team deserves its reward, 5% of the supply is reserved for those working hard to make Sock Coin a success.
-
-- **5% for the Market Maker**: 5% of the supply is reserved for Market maker stability is a success.
-
-- **5% for CEX: Finally**: 5% of the supply is reserved for centralized exchanges (CEX), ensuring maximum visibility and optimal accessibility.
- 
-- **5% for Marketing**: To make sure SockCoin reaches every corner of the crypto world, 5% of the supply is reserved for marketing plan. From promotions to     partnerships, this allocation ensures that everyone knows about SockCoin's potential. Spread the word and join the movement!
-
-
-### Join the Adventure! 🚀🧦
-
-So, are you ready to join the Sock Coin adventure? With us, it's Sock to the Moon! 🧦🚀
-
-Don't miss this unique opportunity to be part of a dynamic and fun community. Join us and help launch Sock "tooo the mooon" 🌕. Join the #SockArmy now!
-
+---
+icon: hand-wave
+cover: https://gitbookio.github.io/onboarding-template-images/header.png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
-## How to Participate
+# Welcome
 
-1. Follow our [Telegram account](https://t.me/sockmemecoin) for the latest updates.
-2. Prepare your BNB for the free-price distribution phase and send @ this wallet :[Sockoin.bnb] binance smart chain
-3. Stay tuned for the Pre Market & AirDrop announcement.
-4. Share the information with your friends on a social netwoks and join the Sock Coin community!
+Welcome to the GitBook Starter Template! Here you'll get an overview of all the amazing features GitBook offers to help you build beautiful, interactive documentation.
 
-## Important Information
+You'll see some of the best parts of GitBook in action — and find help on how you can turn this template into your own.
 
-- **Contract Address**: [0x3E097678aB790AACd8b42721099b3983f40aA827]
-- **Email**: [support@sockcoin.io] or [contact@sockcoin.io]
-- **Audit & KYC Score = 88.28**: [https://app.solidproof.io/projects/sock-coin?audit_id=1034] by **By #SolidProoF & #Trusnet**
-- ![Capture d'écran 2024-11-24 003403](https://github.com/user-attachments/assets/7f57c538-b2a2-45c2-9e8b-18c4ee4504c6)
+### Jump right in
 
-
-
-
-## Useful Links
-
-- [Official Website](https://sockcoin.io)
-- [Telegram](https://t.me/sockmemecoin)
-- [Twitter](https://x.com/sockcoin)
-- [Linktree](https://linktr.ee/sockcoin)
-- [Instagram](https://www.instagram.com/sockcoinarmy)
-- [Medium](https://medium.com/@sockcoinoff)  
-
-## Disclaimer
-
-Investing in cryptocurrencies involves risks. Please do your own research and only invest what you can afford to lose.
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Getting Started</strong></td><td>Create your first site</td><td></td><td></td><td><a href="getting-started/quickstart.md">quickstart.md</a></td></tr><tr><td><strong>Basics</strong></td><td>Learn the basics of GitBook</td><td></td><td></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td><strong>Publish your docs</strong></td><td>Share your docs online</td><td></td><td></td><td><a href="getting-started/publish-your-docs.md">publish-your-docs.md</a></td></tr></tbody></table>
