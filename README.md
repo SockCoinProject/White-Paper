@@ -1,6 +1,6 @@
 # White Paper - Sock Coin
 
-https://github.com/SockCoinProject/banner-white-paper/blob/main/White%20paper%20banner%20SockCoin%20.png
+![White paper banner SockCoin](https://github.com/SockCoinProject/banner-white-paper/blob/main/White%20paper%20banner%20SockCoin%20.png)
 
 
 ### Welcome to the World of SockCoin: The Stylish Meme Coin Serving Its Community! 🎉
