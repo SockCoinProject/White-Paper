@@ -1,15 +1,12 @@
-# White Paper - SockCoin
+# White Paper - SockCoin V2
 
 ![White paper banner SockCoin](https://github.com/SockCoinProject/banner-white-paert/blob/55c42652659ba2bd5b4bd5c87c16d60d23127396/White%20paper%20banner%20SockCoin%20.png)
 
-
-### Welcome to the World of SockCoin: Its Community Meme Coin  ! 🎉
+### Welcome to the World of SockCoin: Its Community MemeCoin  ! 🎉
 
 SockCoin is a collective adventure where everyone gets a lot of Socks. Imagine this: 70% of the total supply is distributed to the community by private sale, Airdop & Rewards! Here's how it works:
 
 #### Token Distribution:
-
-- **10%  of supply at 0.00000025$**: For 7 days, you can buy now before listing on **P2B** 01/02/2025 at low price. [P2B](https://p2pb2b.com/token-sale/SOCK-776/)  **IEO is closed**
 
 - **15% in AirDrop** release planned **AFTER First Listing**: Who doesn't have holey Socks or cold feet? 15% of the total supply will be Airdropped to the community.
 - The percentage you receive will depend on your initial participation. Simple and effective!
@@ -21,13 +18,8 @@ SockCoin is a collective adventure where everyone gets a lot of Socks. Imagine t
 - **10% Reserved for Liquidity Pools**: Once the #50% supply and the **AirDrop** have been distributed, **NEW LIQUIDITY POOL IN STABLE COIN** will be created to ensure stability and smooth transactions.
 -  You will be able to trade your SockCoin with ease.
 
-- **5% for the Team Vesting for 1 year on UNCX**: Because a good team deserves its reward, 5% of the supply is reserved for those working hard to make SockCoin a success.[UNCX](https://app.uncx.network/lockers/token/chain/56/address/0x3E097678aB790AACd8b42721099b3983f40aA827)
-
 - **5% for CEX**: Finally, 5% of the supply is reserved for centralized exchanges **(CEX)**, ensuring maximum visibility and optimal accessibility.
 
-- ** Listing date 01/02/2025 [P2B](https://p2pb2b.com/) for 1 year of Sock ! Best gift for first birthday is listed!!!
-
-- ** Also available on [P2B](https://www.dextools.io/app/en/token/sockcoin?t=1735056191979) and [PanCake](https://pancakeswap.finance/?outputCurrency=0x3e097678ab790aacd8b42721099b3983f40aa827)
 
 ### Join the Adventure! 🚀🧦
 
@@ -51,9 +43,9 @@ Join the #SockArmy now!
 
 - **Contract Address** :
   
-- [Contract](0x3E097678aB790AACd8b42721099b3983f40aA827)
-- [BSC Scan adddress](https://bscscan.com/token/0x3e097678ab790aacd8b42721099b3983f40aa827)
-  
+- [Contract](0x9F4804728ccF309E5a2B71eDDb028494183e1c7a)
+- [BSC Scan adddress](https://bscscan.com/token/0x9F4804728ccF309E5a2B71eDDb028494183e1c7a)
+- [BSC Scan adddress](https://bscscan.com/address/0x9F4804728ccF309E5a2B71eDDb028494183e1c7a)
 
 ## Useful Links
 
@@ -61,11 +53,10 @@ Join the #SockArmy now!
 - [Telegram](https://t.me/sockmemecoin)
 - [Twitter](https://x.com/sockmemecoin)
 - [LinkTree](linktr.ee/sockcoin)
-- [P2B Launch](https://p2pb2b.com/token-sale/SOCK-776/)
-- [DexTools](https://www.dextools.io/app/en/token/sockcoin)
-- ([Medium](https://medium.com/@sockcoinoff)
+- [Medium](https://medium.com/@sockcoinoff)
 
-
+## Total Supply :
+- [BSC Scan adddress](1,000,000,000,000,000.$SockCoin)
 
 ## Disclaimer
 
