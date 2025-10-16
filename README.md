@@ -35,13 +35,13 @@ Join the #SockArmy now!
 
 ## How to Participate ?
 
--1. Follow our [Telegram account](https://t.me/sockmemecoin) & [X](https://x.com/SockCoin) for the latest updates.
--2. Prepare your **BNB** for the **PinkSale Private Sale** phase.
--3. Stay tuned for the **AirDrop** announcement.
--4. Share the information with your friends and join the #SockCoinCommunity!
+- 1. Follow our [Telegram account](https://t.me/sockmemecoin) & [X](https://x.com/SockCoin) for the latest updates.
+- 2. Prepare your **BNB** for the **PinkSale Private Sale** phase.
+- 3. Stay tuned for the **AirDrop** announcement.
+- 4. Share the information with your friends and join the #SockCoinCommunity!
 
 ## Important Information :
- -**Email**: [Mail](support@sockcoin.io)
+ - **Email**: [Mail](support@sockcoin.io)
 
 - **Contract Address** :
   
