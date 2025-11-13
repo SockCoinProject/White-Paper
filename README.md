@@ -167,13 +167,13 @@ The **Laundry Vault™** is the backbone of SockCoin’s sustainable value model
 
 - **Contract Address** :
 - Follow our [Telegram account](https://t.me/sockmemecoin)
-- [X].(https://x.com/SockCoin)  
+- [X.com/SockCoin].(https://x.com/SockCoin)  
 - [Contract](0x9F4804728ccF309E5a2B71eDDb028494183e1c7a)
 - [BSC Scan adddress](https://bscscan.com/token/0x9F4804728ccF309E5a2B71eDDb028494183e1c7a)
 - [BSC Scan adddress](https://bscscan.com/address/0x9F4804728ccF309E5a2B71eDDb028494183e1c7a)
 
 
-## 11. **Disclaimer** : [https://sockcoin.io/disclaimer-page/]
+## 11. **[Disclaimer](https://sockcoin.io/disclaimer-page)**
 
 **SockCoin is a community-driven meme project. This document does not constitute financial advice. Always DYOR before investing.**
 
