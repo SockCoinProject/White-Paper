@@ -134,9 +134,9 @@ The **Laundry Vault™** is the backbone of SockCoin’s sustainable value model
 5. Participate in missions, challenges & airdrops.  
 6. Spread the **SockArmy** spirit.  
 
-## 9. Contract Information
+## 9. **Contract Information**
 
-- **Contract Address (BSC):** [https://bscscan.com/token/0x9F4804728ccF309E5a2B71eDDb028494183e1c7a]  
+- [Contract Address on BscScan](https://bscscan.com/token/0x9F4804728ccF309E5a2B71eDDb028494183e1c7a)  
 - **Token Standard:** BEP-20  
 - **Network:** Binance Smart Chain  
 - **Liquidity:** Auto-Locked + Auto-Increasing  
@@ -144,30 +144,30 @@ The **Laundry Vault™** is the backbone of SockCoin’s sustainable value model
 
 ## 10. Official Links
 
--**Useful Links**
+- **Useful Links**
 
-- [Official Website](https://sockcoin.io)
+- [**Official Website**](https://sockcoin.io)
 - [Telegram](https://t.me/sockmemecoin)
 - [Twitter](https://x.com/sockmemecoin)
 - [LinkTree](linktr.ee/sockcoin)
 - [Medium](https://medium.com/@sockcoinoff)
-- **Website:** [https://sockcoin.io]  
-- **Whitepaper:** [https://github.com/SockCoinProject/White-Paper]  
-- **BscScan:** [https://bscscan.com/token/0x9F4804728ccF309E5a2B71eDDb028494183e1c7a]  
-- **X (Twitter):** [https://x.com/SockCoin]  
-- **Telegram:** [https://t.me/SockMemeCoin]
-- [LinkTree](linktr.ee/sockcoin)
-- [Medium](https://medium.com/@sockcoinoff)
-- **BitMart Primary SockCoin Listing** [https://bitmart.zendesk.com/hc/en-us/articles/43285510143131--Primary-Listing-BitMart-Will-List-SockCoin-SOCKCOIN-2025-11-26]
-- **BitMart SockCoin details** [https://bitmart.zendesk.com/hc/en-us/articles/43284129992731-SockCoin-SOCKCOIN]
-- **BitMart Invite link** [https://www.bitmart.com/en-US/invite/SockCoin]
+- [**Website:**](https://sockcoin.io)  
+- [**Whitepaper:**](https://github.com/SockCoinProject/White-Paper)
+- [**BscScan:**](https://bscscan.com/token/0x9F4804728ccF309E5a2B71eDDb028494183e1c7a)
+- [**X (Twitter):**](https://x.com/SockCoin)
+- [**Telegram:**](https://t.me/SockMemeCoin)
+- [**LinkTree**](linktr.ee/sockcoin)
+- [**Medium**](https://medium.com/@sockcoinoff)
+- [**BitMart Primary SockCoin Listing**](https://bitmart.zendesk.com/hc/en-us/articles/43285510143131--Primary-Listing-BitMart-Will-List-SockCoin-SOCKCOIN-2025-11-26)
+- [**BitMart SockCoin details**](https://bitmart.zendesk.com/hc/en-us/articles/43284129992731-SockCoin-SOCKCOIN)
+- [**BitMart Invite link**](https://www.bitmart.com/en-US/invite/SockCoin)
   
 ## Important Information :
  - **Email**: [Mail](support@sockcoin.io)
 
 - **Contract Address** :
 - Follow our [Telegram account](https://t.me/sockmemecoin)
-- [X.com/SockCoin].(https://x.com/SockCoin)  
+- [**X**](https://x.com/SockCoin)  
 - [Contract](0x9F4804728ccF309E5a2B71eDDb028494183e1c7a)
 - [BSC Scan adddress](https://bscscan.com/token/0x9F4804728ccF309E5a2B71eDDb028494183e1c7a)
 - [BSC Scan adddress](https://bscscan.com/address/0x9F4804728ccF309E5a2B71eDDb028494183e1c7a)
