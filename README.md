@@ -2,9 +2,9 @@
 
 **Fun. Deflation. Community. Utility.**
 
-![White paper banner SockCoin](https://github.com/SockCoinProject/banner-white-paert/blob/55c42652659ba2bd5b4bd5c87c16d60d23127396/White%20paper%20banner%20SockCoin%20.png)
+![White Paper banner V2](https://github.com/SockCoinProject/banner-white-paert/blob/main/SockCoin%20White%20Paper%20V2%20Banner.png)
 
-### Welcome to the World Community MemeCoin #SockCoin! ### 🎉
+***Welcome to the World Community MemeCoin #SockCoin!*** 🎉
 
 SockCoin is a collective adventure where everyone gets a lot of Socks. Imagine this: 80% of the total supply is distributed to the community by private sale, Airdop & Rewards! 
 
